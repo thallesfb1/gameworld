@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: gameworld-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: IGDB_CLIENT_ID
+        value: your_client_id_here
+      - key: IGDB_ACCESS_TOKEN
+        value: your_access_token_here

@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "ac-origins",
+    "title": "Assassin's Creed Origins",
+    "lat": 30.0626,
+    "lng": 31.2497,
+    "location_name": "Cairo / Ancient Egypt",
+    "country": "Egypt",
+    "continent": "Africa",
+    "era_start": -49,
+    "era_label": "Ancient Egypt",
+    "genres": [
+      "Action",
+      "RPG",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/582160/library_600x900.jpg",
+    "description": "Set in ancient Egypt during the Ptolemaic period, following a Medjay named Bayek.",
+    "steam_url": "https://store.steampowered.com/app/582160/"
+  },
+  {
+    "id": "ac-odyssey",
+    "title": "Assassin's Creed Odyssey",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "location_name": "Athens, Ancient Greece",
+    "country": "Greece",
+    "continent": "Europe",
+    "era_start": -431,
+    "era_label": "Ancient Greece",
+    "genres": [
+      "Action",
+      "RPG",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/library_600x900.jpg",
+    "description": "Set in ancient Greece during the Peloponnesian War between Athens and Sparta.",
+    "steam_url": "https://store.steampowered.com/app/812140/"
+  },
+  {
+    "id": "sekiro",
+    "title": "Sekiro: Shadows Die Twice",
+    "lat": 34.9756,
+    "lng": 135.7681,
+    "location_name": "Ashina Province, Sengoku Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1500,
+    "era_label": "Sengoku Period",
+    "genres": [
+      "Action",
+      "Soulslike"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/library_600x900.jpg",
+    "description": "A shinobi seeks revenge in a fictional version of the Sengoku period of Japan.",
+    "steam_url": "https://store.steampowered.com/app/814380/"
+  },
+  {
+    "id": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima",
+    "lat": 34.375,
+    "lng": 129.3111,
+    "location_name": "Tsushima Island, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1274,
+    "era_label": "Feudal Japan",
+    "genres": [
+      "Action",
+      "Open World",
+      "Samurai"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/library_600x900.jpg",
+    "description": "Samurai Jin Sakai defends Tsushima Island during the first Mongol invasion of Japan.",
+    "steam_url": "https://store.steampowered.com/app/2215430/"
+  },
+  {
+    "id": "rdr2",
+    "title": "Red Dead Redemption 2",
+    "lat": 36.1539,
+    "lng": -95.9928,
+    "location_name": "American Frontier, Oklahoma",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1899,
+    "era_label": "Wild West",
+    "genres": [
+      "Action",
+      "Open World",
+      "Western"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900.jpg",
+    "description": "Arthur Morgan and the Van der Linde gang navigate the end of the outlaw era in America.",
+    "steam_url": "https://store.steampowered.com/app/1174180/"
+  },
+  {
+    "id": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "lat": 51.1079,
+    "lng": 17.0385,
+    "location_name": "Novigrad / Northern Kingdoms",
+    "country": "Poland",
+    "continent": "Europe",
+    "era_start": 1272,
+    "era_label": "Medieval Fantasy",
+    "genres": [
+      "RPG",
+      "Open World",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/library_600x900.jpg",
+    "description": "Geralt of Rivia searches for his adopted daughter in a war-torn fantasy world inspired by Slavic mythology.",
+    "steam_url": "https://store.steampowered.com/app/292030/"
+  },
+  {
+    "id": "kingdom-come",
+    "title": "Kingdom Come: Deliverance",
+    "lat": 49.937,
+    "lng": 13.393,
+    "location_name": "Bohemia (Czech Republic)",
+    "country": "Czech Republic",
+    "continent": "Europe",
+    "era_start": 1403,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "RPG",
+      "Open World",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/library_600x900.jpg",
+    "description": "Henry, a blacksmith's son, fights to restore order to 15th century Bohemia.",
+    "steam_url": "https://store.steampowered.com/app/379430/"
+  },
+  {
+    "id": "ac-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "lat": 51.4769,
+    "lng": -0.0005,
+    "location_name": "England, 9th Century",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "era_start": 873,
+    "era_label": "Viking Age",
+    "genres": [
+      "Action",
+      "RPG",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2208920/library_600x900.jpg",
+    "description": "Eivor, a Viking raider, leads their clan to settle in England during the 9th century.",
+    "steam_url": "https://store.steampowered.com/app/2208920/"
+  },
+  {
+    "id": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "location_name": "Post-Apocalyptic Colorado, USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 3040,
+    "era_label": "Post-Apocalyptic Future",
+    "genres": [
+      "Action",
+      "RPG",
+      "Open World",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/library_600x900.jpg",
+    "description": "Aloy, a hunter, explores a world overrun by machines that has forgotten its history.",
+    "steam_url": "https://store.steampowered.com/app/1151640/"
+  },
+  {
+    "id": "detroit-become-human",
+    "title": "Detroit: Become Human",
+    "lat": 42.3314,
+    "lng": -83.0458,
+    "location_name": "Detroit, Michigan, USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2038,
+    "era_label": "Near Future",
+    "genres": [
+      "Adventure",
+      "Interactive Drama",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/library_600x900.jpg",
+    "description": "Three androids navigate a near-future Detroit where machines have become sentient.",
+    "steam_url": "https://store.steampowered.com/app/1222140/"
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "location_name": "Night City (Los Angeles Area, USA)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2077,
+    "era_label": "Dystopian Future",
+    "genres": [
+      "RPG",
+      "Open World",
+      "Sci-Fi",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
+    "description": "V, a mercenary, navigates the sprawling megacity of Night City in a dystopian future.",
+    "steam_url": "https://store.steampowered.com/app/1091500/"
+  },
+  {
+    "id": "god-of-war-2018",
+    "title": "God of War (2018)",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "location_name": "Norse Scandinavia (Midgard)",
+    "country": "Norway",
+    "continent": "Europe",
+    "era_start": 500,
+    "era_label": "Norse Mythology",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mythology"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/library_600x900.jpg",
+    "description": "Kratos and his son Atreus journey through the Norse realms.",
+    "steam_url": "https://store.steampowered.com/app/1593500/"
+  },
+  {
+    "id": "shadow-of-the-tomb-raider",
+    "title": "Shadow of the Tomb Raider",
+    "lat": -13.5227,
+    "lng": -71.9675,
+    "location_name": "Cusco / Paititi, Peru",
+    "country": "Peru",
+    "continent": "Americas",
+    "era_start": 2018,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/library_600x900.jpg",
+    "description": "Lara Croft races to save the world from a Maya apocalypse in Peruvian jungles.",
+    "steam_url": "https://store.steampowered.com/app/750920/"
+  },
+  {
+    "id": "uncharted-4",
+    "title": "Uncharted 4: A Thief's End",
+    "lat": -18.9137,
+    "lng": 47.5361,
+    "location_name": "Madagascar",
+    "country": "Madagascar",
+    "continent": "Africa",
+    "era_start": 2015,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659420/library_600x900.jpg",
+    "description": "Nathan Drake comes out of retirement to help his brother find the pirate colony of Libertalia.",
+    "steam_url": "https://store.steampowered.com/app/1659420/"
+  },
+  {
+    "id": "far-cry-primal",
+    "title": "Far Cry Primal",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "location_name": "Central Europe (Oros)",
+    "country": "Switzerland",
+    "continent": "Europe",
+    "era_start": -10000,
+    "era_label": "Stone Age",
+    "genres": [
+      "Action",
+      "Open World",
+      "Survival"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/371660/library_600x900.jpg",
+    "description": "Takkar, a hunter, fights for survival during the Stone Age in a fictional prehistoric setting.",
+    "steam_url": "https://store.steampowered.com/app/371660/"
+  },
+  {
+    "id": "rise-tomb-raider",
+    "title": "Rise of the Tomb Raider",
+    "lat": 41.2044,
+    "lng": 36.7782,
+    "location_name": "Siberia & Syria",
+    "country": "Russia",
+    "continent": "Europe",
+    "era_start": 2015,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/library_600x900.jpg",
+    "description": "Lara Croft journeys to Siberia to find the secret city of Kitezh.",
+    "steam_url": "https://store.steampowered.com/app/391220/"
+  },
+  {
+    "id": "nioh-2",
+    "title": "Nioh 2",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "location_name": "Sengoku Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1555,
+    "era_label": "Sengoku Period",
+    "genres": [
+      "Action",
+      "Soulslike",
+      "Historical"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/library_600x900.jpg",
+    "description": "A half-human, half-yokai warrior fights demons and warlords in Sengoku-era Japan.",
+    "steam_url": "https://store.steampowered.com/app/1325200/"
+  },
+  {
+    "id": "django-china",
+    "title": "Wo Long: Fallen Dynasty",
+    "lat": 34.0479,
+    "lng": 108.721,
+    "location_name": "Han Dynasty China",
+    "country": "China",
+    "continent": "Asia",
+    "era_start": 184,
+    "era_label": "Three Kingdoms",
+    "genres": [
+      "Action",
+      "Soulslike",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2285680/library_600x900.jpg",
+    "description": "A nameless soldier fights demons and warlords during China's Three Kingdoms period.",
+    "steam_url": "https://store.steampowered.com/app/2285680/"
+  },
+  {
+    "id": "ac-mirage",
+    "title": "Assassin's Creed Mirage",
+    "lat": 33.3152,
+    "lng": 44.3661,
+    "location_name": "Baghdad, Abbasid Caliphate",
+    "country": "Iraq",
+    "continent": "Asia",
+    "era_start": 861,
+    "era_label": "Golden Age of Islam",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2161000/library_600x900.jpg",
+    "description": "Basim Ibn Ishaq becomes a master assassin in 9th century Baghdad.",
+    "steam_url": "https://store.steampowered.com/app/2161000/"
+  },
+  {
+    "id": "immortals-fenyx",
+    "title": "Immortals Fenyx Rising",
+    "lat": 37.7,
+    "lng": 22.7,
+    "location_name": "Mount Olympus, Greece",
+    "country": "Greece",
+    "continent": "Europe",
+    "era_start": -1200,
+    "era_label": "Ancient Greece (Mythological)",
+    "genres": [
+      "Action",
+      "Open World",
+      "Mythology"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262420/library_600x900.jpg",
+    "description": "Fenyx, a winged demigod, fights Typhon to save the Greek gods.",
+    "steam_url": "https://store.steampowered.com/app/1262420/"
+  },
+  {
+    "id": "total-war-shogun2",
+    "title": "Total War: Shogun 2",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "location_name": "Kyoto, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1545,
+    "era_label": "Sengoku Period",
+    "genres": [
+      "Strategy",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/34330/library_600x900.jpg",
+    "description": "Lead a feudal clan to unite Japan under one banner during the Sengoku period.",
+    "steam_url": "https://store.steampowered.com/app/34330/"
+  },
+  {
+    "id": "valheim",
+    "title": "Valheim",
+    "lat": 60.472,
+    "lng": 8.4689,
+    "location_name": "Norse Purgatory (Scandinavia)",
+    "country": "Norway",
+    "continent": "Europe",
+    "era_start": 800,
+    "era_label": "Viking Age",
+    "genres": [
+      "Survival",
+      "Open World",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/library_600x900.jpg",
+    "description": "Vikings explore a procedurally generated world of Norse mythology and survival.",
+    "steam_url": "https://store.steampowered.com/app/892970/"
+  },
+  {
+    "id": "for-honor",
+    "title": "For Honor",
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "location_name": "Medieval France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1200,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Action",
+      "Fighting",
+      "Multiplayer"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/304390/library_600x900.jpg",
+    "description": "Knights, Vikings, and Samurai clash in brutal historical battles.",
+    "steam_url": "https://store.steampowered.com/app/304390/"
+  },
+  {
+    "id": "crusader-kings-3",
+    "title": "Crusader Kings III",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "location_name": "Medieval Europe",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 867,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Strategy",
+      "Grand Strategy",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/library_600x900.jpg",
+    "description": "Rule a medieval dynasty across centuries in this grand strategy RPG.",
+    "steam_url": "https://store.steampowered.com/app/1158310/"
+  },
+  {
+    "id": "age-of-empires-4",
+    "title": "Age of Empires IV",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "location_name": "Norman England",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "era_start": 1066,
+    "era_label": "Medieval",
+    "genres": [
+      "Strategy",
+      "RTS",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/library_600x900.jpg",
+    "description": "Build empires across eight civilizations spanning medieval history.",
+    "steam_url": "https://store.steampowered.com/app/1466860/"
+  },
+  {
+    "id": "dynasty-warriors-9",
+    "title": "Dynasty Warriors 9",
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "location_name": "Wuhan, Han Dynasty China",
+    "country": "China",
+    "continent": "Asia",
+    "era_start": 189,
+    "era_label": "Three Kingdoms",
+    "genres": [
+      "Action",
+      "Hack and Slash",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/584890/library_600x900.jpg",
+    "description": "Warriors of the Three Kingdoms period battle across a vast open-world China.",
+    "steam_url": "https://store.steampowered.com/app/584890/"
+  },
+  {
+    "id": "rome-total-war",
+    "title": "Rome: Total War",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "location_name": "Rome, Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": -270,
+    "era_label": "Roman Republic",
+    "genres": [
+      "Strategy",
+      "Historical",
+      "RTS"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/4760/library_600x900.jpg",
+    "description": "Lead Roman legions to conquer the ancient world in this classic strategy game.",
+    "steam_url": "https://store.steampowered.com/app/4760/"
+  },
+  {
+    "id": "tlou2",
+    "title": "The Last of Us Part II",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "location_name": "Seattle, USA (Post-Apocalyptic)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2039,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival Horror"
+    ],
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/library_600x900.jpg",
+    "description": "Ellie embarks on a journey of revenge in a post-pandemic Seattle.",
+    "steam_url": "https://store.steampowered.com/app/1888930/"
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "location_name": "Faerûn (inspired by Belgium/Europe)",
+    "country": "Belgium",
+    "continent": "Europe",
+    "era_start": 1492,
+    "era_label": "Fantasy Medieval",
+    "genres": [
+      "RPG",
+      "Turn-Based",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/library_600x900.jpg",
+    "description": "A party of adventurers battles mind flayers in the Forgotten Realms, a D&D world.",
+    "steam_url": "https://store.steampowered.com/app/1086940/"
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "location_name": "The Lands Between (Japan-inspired)",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 400,
+    "era_label": "Dark Fantasy",
+    "genres": [
+      "Action",
+      "RPG",
+      "Soulslike",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/library_600x900.jpg",
+    "description": "A Tarnished seeks the Elden Ring in the shattered world of the Lands Between.",
+    "steam_url": "https://store.steampowered.com/app/1245620/"
+  },
+  {
+    "id": "ac2",
+    "title": "Assassin's Creed II",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "location_name": "Florence, Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 1476,
+    "era_label": "Italian Renaissance",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1070580/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1070580/",
+    "description": "Ezio Auditore begins his journey as an assassin in Renaissance-era Italy."
+  },
+  {
+    "id": "ac-brotherhood",
+    "title": "Assassin's Creed Brotherhood",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "location_name": "Rome, Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 1499,
+    "era_label": "Italian Renaissance",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1070580/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1070580/",
+    "description": "Ezio establishes the Brotherhood of Assassins in Renaissance Rome."
+  },
+  {
+    "id": "ac-revelations",
+    "title": "Assassin's Creed Revelations",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "location_name": "Constantinople, Ottoman Empire",
+    "country": "Turkey",
+    "continent": "Europe",
+    "era_start": 1511,
+    "era_label": "Ottoman Empire",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1070580/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1070580/",
+    "description": "Ezio follows Altaïr's footsteps in Constantinople to uncover Masyaf's secrets."
+  },
+  {
+    "id": "ac-unity",
+    "title": "Assassin's Creed Unity",
+    "lat": 48.8535,
+    "lng": 2.3488,
+    "location_name": "Paris, France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1789,
+    "era_label": "French Revolution",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/289650/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/289650/",
+    "description": "Arno Dorian investigates a conspiracy during the French Revolution in Paris."
+  },
+  {
+    "id": "ac-syndicate",
+    "title": "Assassin's Creed Syndicate",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "location_name": "London, England",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "era_start": 1868,
+    "era_label": "Victorian Era",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/368500/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/368500/",
+    "description": "The Frye twins take on a criminal empire in Victorian London."
+  },
+  {
+    "id": "ac1",
+    "title": "Assassin's Creed",
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "location_name": "Jerusalem, Holy Land",
+    "country": "Israel",
+    "continent": "Asia",
+    "era_start": 1191,
+    "era_label": "Crusader Period",
+    "genres": [
+      "Action",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/29060/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/29060/",
+    "description": "Altaïr Ibn-La'Ahad hunts targets across the Holy Land during the Third Crusade."
+  },
+  {
+    "id": "a-plague-tale-innocence",
+    "title": "A Plague Tale: Innocence",
+    "lat": 44.8378,
+    "lng": 0.5792,
+    "location_name": "Guyenne, France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1349,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/752590/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/752590/",
+    "description": "Amicia and her brother Hugo flee the Inquisition and a swarm of plague rats in 14th-century France."
+  },
+  {
+    "id": "a-plague-tale-requiem",
+    "title": "A Plague Tale: Requiem",
+    "lat": 43.6047,
+    "lng": 1.4442,
+    "location_name": "Provence, Southern France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1349,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1182900/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1182900/",
+    "description": "Amicia and Hugo journey south through France and Italy seeking a cure for the Macula."
+  },
+  {
+    "id": "hellblade",
+    "title": "Hellblade: Senua's Sacrifice",
+    "lat": 58.9988,
+    "lng": -2.9601,
+    "location_name": "Orkney, Scotland",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "era_start": 790,
+    "era_label": "Viking Age",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Psychological"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/414340/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/414340/",
+    "description": "Senua, a Pict warrior, journeys to Helheim to save the soul of her dead lover."
+  },
+  {
+    "id": "napoleon-tw",
+    "title": "Napoleon: Total War",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "location_name": "Paris, Napoleonic France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1805,
+    "era_label": "Napoleonic Era",
+    "genres": [
+      "Strategy",
+      "Historical",
+      "RTS"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/34030/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/34030/",
+    "description": "Command Napoleon's Grande Armée across Europe in this historical strategy game."
+  },
+  {
+    "id": "medieval-tw2",
+    "title": "Medieval II: Total War",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "location_name": "Medieval Europe & Holy Land",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 1080,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Strategy",
+      "Historical",
+      "RTS"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/4700/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/4700/",
+    "description": "Build a medieval empire spanning Europe, the Middle East, and the Americas."
+  },
+  {
+    "id": "company-of-heroes",
+    "title": "Company of Heroes",
+    "lat": 49.3667,
+    "lng": -0.8667,
+    "location_name": "Normandy, France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1944,
+    "era_label": "World War II",
+    "genres": [
+      "Strategy",
+      "RTS",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/228200/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/228200/",
+    "description": "Lead US forces through the liberation of Normandy in this critically acclaimed WWII RTS."
+  },
+  {
+    "id": "company-of-heroes-3",
+    "title": "Company of Heroes 3",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "location_name": "Naples, Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 1943,
+    "era_label": "World War II",
+    "genres": [
+      "Strategy",
+      "RTS",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1880481/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1880481/",
+    "description": "Liberate Italy and North Africa in this dynamic WWII real-time strategy game."
+  },
+  {
+    "id": "sniper-elite-5",
+    "title": "Sniper Elite 5",
+    "lat": 48.8014,
+    "lng": -1.6742,
+    "location_name": "Brittany, France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1944,
+    "era_label": "World War II",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1314680/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1314680/",
+    "description": "Elite sniper Karl Fairburne infiltrates Nazi-occupied France to destroy Operation Kraken."
+  },
+  {
+    "id": "sniper-elite-4",
+    "title": "Sniper Elite 4",
+    "lat": 40.6401,
+    "lng": 15.8056,
+    "location_name": "Sun Tzu Island, Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 1943,
+    "era_label": "World War II",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/431380/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/431380/",
+    "description": "Infiltrate Nazi-held Italy and destroy a deadly radio-guided rocket programme."
+  },
+  {
+    "id": "battlefield-1",
+    "title": "Battlefield 1",
+    "lat": 49.1596,
+    "lng": 5.3838,
+    "location_name": "Western Front, France",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1918,
+    "era_label": "World War I",
+    "genres": [
+      "Shooter",
+      "Multiplayer",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238820/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1238820/",
+    "description": "Experience the Great War across multiple theatres from the deserts of Arabia to the Alps."
+  },
+  {
+    "id": "expeditions-rome",
+    "title": "Expeditions: Rome",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "location_name": "Rome & Mediterranean",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": -107,
+    "era_label": "Roman Empire",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1294440/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1294440/",
+    "description": "Lead Roman legions across Greece, Egypt and Gaul as you forge the Roman Empire."
+  },
+  {
+    "id": "expeditions-viking",
+    "title": "Expeditions: Viking",
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "location_name": "Denmark & Britain",
+    "country": "Denmark",
+    "continent": "Europe",
+    "era_start": 845,
+    "era_label": "Viking Age",
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/445190/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/445190/",
+    "description": "Lead a Viking clan from Denmark to raid the British Isles and beyond."
+  },
+  {
+    "id": "iron-harvest",
+    "title": "Iron Harvest",
+    "lat": 51.0504,
+    "lng": 13.7373,
+    "location_name": "Saxony, Germany",
+    "country": "Germany",
+    "continent": "Europe",
+    "era_start": 1920,
+    "era_label": "Dieselpunk",
+    "genres": [
+      "Strategy",
+      "RTS",
+      "Steampunk"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1044620/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1044620/",
+    "description": "Command mechs and infantry across an alternate 1920s Europe torn apart by war."
+  },
+  {
+    "id": "pentiment",
+    "title": "Pentiment",
+    "lat": 47.8099,
+    "lng": 13.055,
+    "location_name": "Tassing, Bavaria",
+    "country": "Germany",
+    "continent": "Europe",
+    "era_start": 1518,
+    "era_label": "Italian Renaissance",
+    "genres": [
+      "Adventure",
+      "Narrative",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1971800/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1971800/",
+    "description": "Andreas Maler investigates murders in a Bavarian abbey over 25 years of historical upheaval."
+  },
+  {
+    "id": "disco-elysium",
+    "title": "Disco Elysium",
+    "lat": 59.437,
+    "lng": 24.7536,
+    "location_name": "Revachol, Eastern Europe (fictional)",
+    "country": "Estonia",
+    "continent": "Europe",
+    "era_start": 1951,
+    "era_label": "Mid-20th Century",
+    "genres": [
+      "RPG",
+      "Detective",
+      "Narrative"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/632470/",
+    "description": "A detective with amnesia solves a murder while exploring the crumbling city of Revachol."
+  },
+  {
+    "id": "anno-1800",
+    "title": "Anno 1800",
+    "lat": 53.5753,
+    "lng": 10.0153,
+    "location_name": "Hamburg, Germany",
+    "country": "Germany",
+    "continent": "Europe",
+    "era_start": 1800,
+    "era_label": "Industrial Revolution",
+    "genres": [
+      "Strategy",
+      "City Builder",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/916440/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/916440/",
+    "description": "Build an industrial empire during the 19th century in this city-building strategy game."
+  },
+  {
+    "id": "vampyr",
+    "title": "Vampyr",
+    "lat": 51.5095,
+    "lng": -0.1183,
+    "location_name": "London, England",
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "era_start": 1918,
+    "era_label": "Victorian Era",
+    "genres": [
+      "Action",
+      "RPG",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/427290/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/427290/",
+    "description": "Dr Jonathan Reid is transformed into a vampire during the 1918 Spanish flu epidemic in London."
+  },
+  {
+    "id": "wolfenstein-new-order",
+    "title": "Wolfenstein: The New Order",
+    "lat": 52.52,
+    "lng": 13.405,
+    "location_name": "Berlin, Germany",
+    "country": "Germany",
+    "continent": "Europe",
+    "era_start": 1960,
+    "era_label": "Alt-History",
+    "genres": [
+      "Shooter",
+      "Action",
+      "Alt-History"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/201810/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/201810/",
+    "description": "BJ Blazkowicz fights to liberate a Nazi-dominated alternate-history 1960s Europe."
+  },
+  {
+    "id": "greedfall",
+    "title": "GreedFall",
+    "lat": 47.2184,
+    "lng": -1.5536,
+    "location_name": "Île de Teer Fradee (fictional Atlantic)",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1620,
+    "era_label": "Colonial Era",
+    "genres": [
+      "RPG",
+      "Action",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/606880/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/606880/",
+    "description": "A colonial RPG set on a mysterious island filled with magic and political intrigue."
+  },
+  {
+    "id": "kcd2",
+    "title": "Kingdom Come: Deliverance II",
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "location_name": "Bohemia, Czech Republic",
+    "country": "Czech Republic",
+    "continent": "Europe",
+    "era_start": 1403,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "RPG",
+      "Open World",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2988300/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/2988300/",
+    "description": "Henry of Skalitz continues his adventures across Bohemia in this epic historical sequel."
+  },
+  {
+    "id": "medieval-dynasty",
+    "title": "Medieval Dynasty",
+    "lat": 50.0647,
+    "lng": 19.945,
+    "location_name": "Medieval Poland",
+    "country": "Poland",
+    "continent": "Europe",
+    "era_start": 1300,
+    "era_label": "Medieval Europe",
+    "genres": [
+      "Survival",
+      "Simulation",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1129580/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1129580/",
+    "description": "Build a medieval dynasty from a peasant to a ruler in this open-world survival sim."
+  },
+  {
+    "id": "forgotten-city",
+    "title": "The Forgotten City",
+    "lat": 40.749,
+    "lng": 14.489,
+    "location_name": "Pompeii, Roman Empire",
+    "country": "Italy",
+    "continent": "Europe",
+    "era_start": 62,
+    "era_label": "Roman Empire",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Time Travel"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1490100/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1490100/",
+    "description": "Trapped in an ancient Roman city where one sin dooms everyone, you must solve the mystery."
+  },
+  {
+    "id": "metro-2033",
+    "title": "Metro 2033 Redux",
+    "lat": 55.7522,
+    "lng": 37.6156,
+    "location_name": "Moscow Metro, Russia",
+    "country": "Russia",
+    "continent": "Europe",
+    "era_start": 2033,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "Shooter",
+      "Survival",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/286690/",
+    "description": "Artyom fights for survival in the tunnels of a post-nuclear Moscow Metro."
+  },
+  {
+    "id": "metro-exodus",
+    "title": "Metro Exodus",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "location_name": "Moscow & Trans-Siberian Russia",
+    "country": "Russia",
+    "continent": "Europe",
+    "era_start": 2036,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "Shooter",
+      "Survival",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/412020/",
+    "description": "Artyom and his crew travel by train across post-apocalyptic Russia seeking a new home."
+  },
+  {
+    "id": "atomic-heart",
+    "title": "Atomic Heart",
+    "lat": 55.7558,
+    "lng": 37.6176,
+    "location_name": "Soviet Union, Russia",
+    "country": "Russia",
+    "continent": "Europe",
+    "era_start": 1955,
+    "era_label": "Retrofuturism",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/668580/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/668580/",
+    "description": "A KGB agent investigates a Soviet facility where robots have turned against their creators."
+  },
+  {
+    "id": "this-war-of-mine",
+    "title": "This War of Mine",
+    "lat": 43.8564,
+    "lng": 18.4131,
+    "location_name": "Sarajevo, Bosnia (fictional)",
+    "country": "Bosnia",
+    "continent": "Europe",
+    "era_start": 1992,
+    "era_label": "Mid-20th Century",
+    "genres": [
+      "Survival",
+      "Strategy",
+      "War Drama"
+    ],
+    "platforms": [
+      "PC",
+      "PS4"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/282070/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/282070/",
+    "description": "Survive a war siege as civilians, scavenging for supplies in a city under bombardment."
+  },
+  {
+    "id": "pillars-of-eternity",
+    "title": "Pillars of Eternity",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "location_name": "Dyrwood (fictional, inspired by Europe)",
+    "country": "France",
+    "continent": "Europe",
+    "era_start": 1800,
+    "era_label": "Medieval Fantasy",
+    "genres": [
+      "RPG",
+      "CRPG",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/291650/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/291650/",
+    "description": "A Watcher explores the mystery of hollowborn children in a richly detailed fantasy world."
+  },
+  {
+    "id": "pathfinder-kingmaker",
+    "title": "Pathfinder: Kingmaker",
+    "lat": 47.9022,
+    "lng": 33.0722,
+    "location_name": "Stolen Lands (fictional)",
+    "country": "Ukraine",
+    "continent": "Europe",
+    "era_start": 4710,
+    "era_label": "Medieval Fantasy",
+    "genres": [
+      "RPG",
+      "CRPG",
+      "Fantasy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/640820/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/640820/",
+    "description": "Claim and rule a kingdom in the Pathfinder RPG world."
+  },
+  {
+    "id": "ac-rogue",
+    "title": "Assassin's Creed Rogue",
+    "lat": 44.6488,
+    "lng": -63.5752,
+    "location_name": "North Atlantic & North America",
+    "country": "Canada",
+    "continent": "Americas",
+    "era_start": 1752,
+    "era_label": "Age of Sail",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Naval"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/396440/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/396440/",
+    "description": "Shay Cormac defects from the Brotherhood and hunts Assassins across the North Atlantic."
+  },
+  {
+    "id": "spec-ops-line",
+    "title": "Spec Ops: The Line",
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "location_name": "Dubai, UAE",
+    "country": "UAE",
+    "continent": "Asia",
+    "era_start": 2013,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Action",
+      "Psychological"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/209570/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/209570/",
+    "description": "A Delta Force captain enters a catastrophe-struck Dubai in a harrowing psychological thriller."
+  },
+  {
+    "id": "prince-of-persia-sot",
+    "title": "Prince of Persia: Sands of Time",
+    "lat": 32.6539,
+    "lng": 51.666,
+    "location_name": "Azad, Persia",
+    "country": "Iran",
+    "continent": "Asia",
+    "era_start": 900,
+    "era_label": "Medieval",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Adventure"
+    ],
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/13600/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/13600/",
+    "description": "A Persian Prince uses the Dagger of Time to reverse a catastrophic release of the Sands of Time."
+  },
+  {
+    "id": "stronghold-crusader",
+    "title": "Stronghold Crusader",
+    "lat": 32.9268,
+    "lng": 35.0735,
+    "location_name": "Acre, Holy Land",
+    "country": "Israel",
+    "continent": "Asia",
+    "era_start": 1191,
+    "era_label": "Crusader Period",
+    "genres": [
+      "Strategy",
+      "RTS",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/40970/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/40970/",
+    "description": "Build and defend crusader castles in the sands of the Holy Land."
+  },
+  {
+    "id": "far-cry-2",
+    "title": "Far Cry 2",
+    "lat": 4.375,
+    "lng": 18.5581,
+    "location_name": "Central Africa (fictional)",
+    "country": "Central African Republic",
+    "continent": "Africa",
+    "era_start": 2008,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/19900/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/19900/",
+    "description": "Hunt a weapons dealer through a war-torn African nation in this open-world shooter."
+  },
+  {
+    "id": "mgs5",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "lat": 33.9391,
+    "lng": 67.71,
+    "location_name": "Afghanistan & Africa",
+    "country": "Afghanistan",
+    "continent": "Asia",
+    "era_start": 1984,
+    "era_label": "Cold War",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/287700/",
+    "description": "Big Boss builds Diamond Dogs and exacts revenge across Afghanistan and Africa."
+  },
+  {
+    "id": "nioh",
+    "title": "Nioh",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "location_name": "Kyoto, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1600,
+    "era_label": "Sengoku Period",
+    "genres": [
+      "Action",
+      "Soulslike",
+      "Historical"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/485510/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/485510/",
+    "description": "Western samurai William Adams battles yokai while fighting in the Sengoku period."
+  },
+  {
+    "id": "trek-to-yomi",
+    "title": "Trek to Yomi",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "location_name": "Edo Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1650,
+    "era_label": "Edo Period",
+    "genres": [
+      "Action",
+      "Hack and Slash",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1465530/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1465530/",
+    "description": "A samurai travels through the realm of the dead to fulfil his oath to protect his people."
+  },
+  {
+    "id": "shadow-tactics",
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "lat": 34.6937,
+    "lng": 135.5022,
+    "location_name": "Osaka, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1615,
+    "era_label": "Edo Period",
+    "genres": [
+      "Stealth",
+      "Strategy",
+      "Historical"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/418240/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/418240/",
+    "description": "A deadly group of specialists fight to restore peace to Edo period Japan."
+  },
+  {
+    "id": "ghostwire-tokyo",
+    "title": "Ghostwire: Tokyo",
+    "lat": 35.658,
+    "lng": 139.7016,
+    "location_name": "Tokyo, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 2023,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1475810/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1475810/",
+    "description": "Fight supernatural entities in a mysterious, nearly deserted Tokyo."
+  },
+  {
+    "id": "persona5-royal",
+    "title": "Persona 5 Royal",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "location_name": "Tokyo, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 2016,
+    "era_label": "Modern Day",
+    "genres": [
+      "RPG",
+      "JRPG",
+      "Social Sim"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Switch",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1687950/",
+    "description": "The Phantom Thieves of Hearts infiltrate Palaces to steal corrupt hearts in modern Tokyo."
+  },
+  {
+    "id": "yakuza-0",
+    "title": "Yakuza 0",
+    "lat": 34.6937,
+    "lng": 135.5022,
+    "location_name": "Kamurocho & Sotenbori, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1988,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Crime",
+      "JRPG"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/638970/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/638970/",
+    "description": "Kazuma Kiryu and Goro Majima battle yakuza factions in 1980s Osaka and Tokyo."
+  },
+  {
+    "id": "judgment",
+    "title": "Judgment",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "location_name": "Kamurocho, Tokyo",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 2018,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Detective",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2058650/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/2058650/",
+    "description": "Disgraced lawyer Takayuki Yagami solves serial murders in Yakuza-controlled Tokyo."
+  },
+  {
+    "id": "sleeping-dogs",
+    "title": "Sleeping Dogs",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "location_name": "Hong Kong",
+    "country": "Hong Kong",
+    "continent": "Asia",
+    "era_start": 2012,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/202170/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/202170/",
+    "description": "Undercover cop Wei Shen infiltrates the triads in the vibrant streets of Hong Kong."
+  },
+  {
+    "id": "sifu",
+    "title": "Sifu",
+    "lat": 22.3964,
+    "lng": 114.1095,
+    "location_name": "Fictional Chinese City",
+    "country": "China",
+    "continent": "Asia",
+    "era_start": 2022,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Martial Arts",
+      "Beat 'em up"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1442530/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1442530/",
+    "description": "A young kung fu student hunts the assassins who murdered their family, aging with each death."
+  },
+  {
+    "id": "okami",
+    "title": "Ōkami",
+    "lat": 34.693,
+    "lng": 135.503,
+    "location_name": "Nippon (Mythological Japan)",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 200,
+    "era_label": "Japan Mythology",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mythology"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Switch"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/587620/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/587620/",
+    "description": "The sun goddess Amaterasu as a white wolf restores colour to a Japan cursed by darkness."
+  },
+  {
+    "id": "ac-chronicles-china",
+    "title": "Assassin's Creed Chronicles: China",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "location_name": "China, Ming Dynasty",
+    "country": "China",
+    "continent": "Asia",
+    "era_start": 1526,
+    "era_label": "Ming Dynasty",
+    "genres": [
+      "Action",
+      "Platformer",
+      "Stealth"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/393220/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/393220/",
+    "description": "Shao Jun returns to China to rebuild the Brotherhood after training with Ezio."
+  },
+  {
+    "id": "total-war-three-kingdoms",
+    "title": "Total War: Three Kingdoms",
+    "lat": 34.6314,
+    "lng": 112.454,
+    "location_name": "Luoyang, Han Dynasty China",
+    "country": "China",
+    "continent": "Asia",
+    "era_start": 190,
+    "era_label": "Three Kingdoms",
+    "genres": [
+      "Strategy",
+      "Historical",
+      "RTS"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/779840/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/779840/",
+    "description": "Unite China as one of the great warlords of the Three Kingdoms period."
+  },
+  {
+    "id": "onimusha",
+    "title": "Onimusha: Warlords",
+    "lat": 35.3994,
+    "lng": 136.7221,
+    "location_name": "Inabayama, Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1560,
+    "era_label": "Sengoku Period",
+    "genres": [
+      "Action",
+      "Hack and Slash",
+      "Historical"
+    ],
+    "platforms": [
+      "PC",
+      "PS4"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/761600/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/761600/",
+    "description": "Samurai Samanosuke fights demons and warlords at Inabayama Castle in feudal Japan."
+  },
+  {
+    "id": "far-cry-3",
+    "title": "Far Cry 3",
+    "lat": 16.8661,
+    "lng": 96.1951,
+    "location_name": "Rook Islands (Southeast Asia)",
+    "country": "Myanmar",
+    "continent": "Asia",
+    "era_start": 2012,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/220240/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/220240/",
+    "description": "Jason Brody escapes a pirate stronghold and battles for survival on a tropical island."
+  },
+  {
+    "id": "far-cry-4",
+    "title": "Far Cry 4",
+    "lat": 28.3949,
+    "lng": 84.124,
+    "location_name": "Kyrat, Himalayas",
+    "country": "Nepal",
+    "continent": "Asia",
+    "era_start": 2014,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/298110/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/298110/",
+    "description": "Ajay Ghale returns to his homeland of Kyrat and is caught in a civil war."
+  },
+  {
+    "id": "shenmue",
+    "title": "Shenmue I & II",
+    "lat": 35.2934,
+    "lng": 139.5678,
+    "location_name": "Yokosuka & Hong Kong",
+    "country": "Japan",
+    "continent": "Asia",
+    "era_start": 1986,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/758330/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/758330/",
+    "description": "Ryo Hazuki investigates his father's murder through the streets of Japan and Hong Kong."
+  },
+  {
+    "id": "gta5",
+    "title": "Grand Theft Auto V",
+    "lat": 34.0195,
+    "lng": -118.4912,
+    "location_name": "Los Santos, California",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2013,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/271590/",
+    "description": "Three criminals plan a series of heists in the sprawling city of Los Santos."
+  },
+  {
+    "id": "rdr1",
+    "title": "Red Dead Redemption",
+    "lat": 29.4241,
+    "lng": -99.1403,
+    "location_name": "Nuevo Paraíso, US-Mexico Border",
+    "country": "Mexico",
+    "continent": "Americas",
+    "era_start": 1911,
+    "era_label": "Wild West",
+    "genres": [
+      "Action",
+      "Open World",
+      "Western"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2668510/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/2668510/",
+    "description": "John Marston hunts former gang members to save his family in the dying frontier."
+  },
+  {
+    "id": "mafia-de",
+    "title": "Mafia: Definitive Edition",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "location_name": "Lost Heaven, Chicago",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1930,
+    "era_label": "Prohibition Era",
+    "genres": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1030840/",
+    "description": "Taxi driver Tommy Angelo rises through the ranks of the Salieri crime family in 1930s Prohibition."
+  },
+  {
+    "id": "mafia2",
+    "title": "Mafia II: Definitive Edition",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "location_name": "Empire Bay, New York",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1945,
+    "era_label": "World War II",
+    "genres": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/50130/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/50130/",
+    "description": "Vito Scaletta returns from WWII and becomes entangled in the mob in 1940s New York."
+  },
+  {
+    "id": "mafia3",
+    "title": "Mafia III: Definitive Edition",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "location_name": "New Bordeaux (New Orleans)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1968,
+    "era_label": "Mid-20th Century",
+    "genres": [
+      "Action",
+      "Open World",
+      "Crime"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/360430/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/360430/",
+    "description": "Vietnam vet Lincoln Clay dismantles the Italian mob in 1960s New Orleans."
+  },
+  {
+    "id": "fallout4",
+    "title": "Fallout 4",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "location_name": "The Commonwealth, Boston",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2287,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/377160/",
+    "description": "A vault dweller searches for their kidnapped son across the wasteland of post-nuclear Boston."
+  },
+  {
+    "id": "fallout3",
+    "title": "Fallout 3",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "location_name": "Capital Wasteland, Washington DC",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2277,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/22300/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/22300/",
+    "description": "The Lone Wanderer escapes Vault 101 and searches for their father in the Capital Wasteland."
+  },
+  {
+    "id": "fallout-nv",
+    "title": "Fallout: New Vegas",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "location_name": "Mojave Wasteland, Nevada",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2281,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/22380/",
+    "description": "The Courier survives a bullet to the head and uncovers a conspiracy over New Vegas."
+  },
+  {
+    "id": "bioshock",
+    "title": "BioShock",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "location_name": "Rapture, Atlantic Ocean",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1960,
+    "era_label": "Dieselpunk",
+    "genres": [
+      "Shooter",
+      "RPG",
+      "Horror"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/7670/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/7670/",
+    "description": "A plane crash survivor explores a dystopian underwater city built by an Ayn Rand-inspired visionary."
+  },
+  {
+    "id": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "location_name": "Columbia, floating city (fictional)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1912,
+    "era_label": "Steampunk",
+    "genres": [
+      "Shooter",
+      "Action",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/8870/",
+    "description": "A debt-ridden detective rescues a woman from a floating utopian city in an alternate 1912."
+  },
+  {
+    "id": "watch-dogs",
+    "title": "Watch Dogs",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "location_name": "Chicago, Illinois",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2013,
+    "era_label": "Near Future",
+    "genres": [
+      "Action",
+      "Open World",
+      "Hacking"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/243470/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/243470/",
+    "description": "Hacker Aiden Pearce takes revenge using Chicago's interconnected surveillance system."
+  },
+  {
+    "id": "watch-dogs-2",
+    "title": "Watch Dogs 2",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "location_name": "San Francisco, California",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2016,
+    "era_label": "Near Future",
+    "genres": [
+      "Action",
+      "Open World",
+      "Hacking"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/447040/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/447040/",
+    "description": "Marcus Holloway joins DedSec hackers to expose corporations in San Francisco."
+  },
+  {
+    "id": "la-noire",
+    "title": "L.A. Noire",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "location_name": "Los Angeles, California",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1947,
+    "era_label": "Mid-20th Century",
+    "genres": [
+      "Detective",
+      "Action",
+      "Noir"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/110800/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/110800/",
+    "description": "LAPD detective Cole Phelps solves crimes in the glamorous and gritty post-WWII Los Angeles."
+  },
+  {
+    "id": "far-cry-5",
+    "title": "Far Cry 5",
+    "lat": 46.8797,
+    "lng": -110.3626,
+    "location_name": "Hope County, Montana",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2018,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/552520/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/552520/",
+    "description": "A rookie sheriff's deputy leads a resistance against a doomsday cult in rural Montana."
+  },
+  {
+    "id": "far-cry-6",
+    "title": "Far Cry 6",
+    "lat": 22.0,
+    "lng": -78.0,
+    "location_name": "Yara, fictional Cuba",
+    "country": "Cuba",
+    "continent": "Americas",
+    "era_start": 2021,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Open World",
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1681960/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1681960/",
+    "description": "Guerrilla fighter Dani Rojas leads a revolution against a tropical dictatorship."
+  },
+  {
+    "id": "days-gone",
+    "title": "Days Gone",
+    "lat": 44.0521,
+    "lng": -121.3153,
+    "location_name": "Oregon, USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2021,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "Action",
+      "Survival",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1259420/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1259420/",
+    "description": "Biker and drifter Deacon St. John searches for his wife in a post-pandemic Pacific Northwest."
+  },
+  {
+    "id": "spiderman",
+    "title": "Marvel's Spider-Man Remastered",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "location_name": "New York City, USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2023,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Open World",
+      "Superhero"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1817070/",
+    "description": "Peter Parker balances superhero duties with everyday life fighting crime in New York."
+  },
+  {
+    "id": "death-stranding",
+    "title": "Death Stranding",
+    "lat": 39.0,
+    "lng": -98.0,
+    "location_name": "Post-apocalyptic USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2050,
+    "era_label": "Post-Apocalyptic Future",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1190460/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1190460/",
+    "description": "Courier Sam Porter Bridges reconnects a fragmented America while dealing with supernatural threats."
+  },
+  {
+    "id": "fallout-76",
+    "title": "Fallout 76",
+    "lat": 38.5976,
+    "lng": -80.4549,
+    "location_name": "Appalachia, West Virginia",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2102,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Online"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1151340/",
+    "description": "Rebuild civilization in the irradiated hills of West Virginia in this online RPG."
+  },
+  {
+    "id": "wolfenstein-2",
+    "title": "Wolfenstein II: The New Colossus",
+    "lat": 37.0902,
+    "lng": -95.7129,
+    "location_name": "Occupied USA (alt-history)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1961,
+    "era_label": "Alt-History",
+    "genres": [
+      "Shooter",
+      "Action",
+      "Alt-History"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/612880/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/612880/",
+    "description": "BJ Blazkowicz ignites the American revolution against Nazi occupation in alt-history 1961."
+  },
+  {
+    "id": "tlou1",
+    "title": "The Last of Us Part I",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "location_name": "Boston, USA (Post-Pandemic)",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2033,
+    "era_label": "Post-Apocalyptic",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Survival"
+    ],
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888980/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1888980/",
+    "description": "Smuggler Joel escorts teenage Ellie across a post-pandemic USA in a desperate journey."
+  },
+  {
+    "id": "ac3",
+    "title": "Assassin's Creed III",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "location_name": "Boston & Philadelphia, USA",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 1775,
+    "era_label": "American Revolution",
+    "genres": [
+      "Action",
+      "Stealth",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/29180/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/29180/",
+    "description": "Half-Native American Assassin Connor fights both Templars and redcoats during the American Revolution."
+  },
+  {
+    "id": "ac4-black-flag",
+    "title": "Assassin's Creed IV: Black Flag",
+    "lat": 25.048,
+    "lng": -77.3554,
+    "location_name": "Nassau, Bahamas",
+    "country": "Bahamas",
+    "continent": "Americas",
+    "era_start": 1715,
+    "era_label": "Pirate Era",
+    "genres": [
+      "Action",
+      "Naval",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/242050/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/242050/",
+    "description": "Pirate Edward Kenway sails the Golden Age of Piracy across the Caribbean Sea."
+  },
+  {
+    "id": "horizon-forbidden-west",
+    "title": "Horizon Forbidden West",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "location_name": "Forbidden West, California",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 3040,
+    "era_label": "Post-Apocalyptic Future",
+    "genres": [
+      "Action",
+      "RPG",
+      "Open World"
+    ],
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2420110/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/2420110/",
+    "description": "Aloy ventures west to uncover a blight threatening all life on Earth."
+  },
+  {
+    "id": "infamous-second-son",
+    "title": "inFamous: Second Son",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "location_name": "Seattle, Washington",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2014,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Superhero",
+      "Open World"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/0/library_600x900.jpg",
+    "steam_url": "",
+    "description": "Conduit Delsin Rowe battles a government agency in a neon-lit near-future Seattle."
+  },
+  {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "lat": 47.5232,
+    "lng": -121.8245,
+    "location_name": "Bright Falls, Washington",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2023,
+    "era_label": "Modern Day",
+    "genres": [
+      "Horror",
+      "Psychological",
+      "Thriller"
+    ],
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1948430/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/1948430/",
+    "description": "Writer Alan Wake escapes a dark dimension while FBI agent Saga Anderson investigates murders."
+  },
+  {
+    "id": "control",
+    "title": "Control",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "location_name": "The Oldest House, New York",
+    "country": "United States",
+    "continent": "Americas",
+    "era_start": 2019,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Supernatural",
+      "Sci-Fi"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/870780/",
+    "description": "Jesse Faden becomes the Director of a secret US government bureau fighting a supernatural threat."
+  },
+  {
+    "id": "just-cause-4",
+    "title": "Just Cause 4",
+    "lat": -16.2902,
+    "lng": -63.5887,
+    "location_name": "Solis, fictional South America",
+    "country": "Bolivia",
+    "continent": "Americas",
+    "era_start": 2018,
+    "era_label": "Modern Day",
+    "genres": [
+      "Action",
+      "Open World",
+      "Sandbox"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": true,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/716600/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/716600/",
+    "description": "Rico Rodriguez uses a grapple hook to topple a military dictator in South America."
+  },
+  {
+    "id": "ghost-recon-wildlands",
+    "title": "Ghost Recon Wildlands",
+    "lat": -16.2902,
+    "lng": -68.1193,
+    "location_name": "Bolivia, South America",
+    "country": "Bolivia",
+    "continent": "Americas",
+    "era_start": 2019,
+    "era_label": "Modern Day",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Open World"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One"
+    ],
+    "fictional": false,
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/365590/library_600x900.jpg",
+    "steam_url": "https://store.steampowered.com/app/365590/",
+    "description": "Ghost operatives dismantle a narco cartel across the mountains and jungles of Bolivia."
+  }
+]
