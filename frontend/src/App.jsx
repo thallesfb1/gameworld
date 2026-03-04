@@ -1,16 +1,21 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import Globe from './components/Globe.jsx';
 import GameModal from './components/GameModal.jsx';
 import InsightsPanel from './components/InsightsPanel.jsx';
 import UserStats from './components/UserStats.jsx';
+import SearchFilter from './components/SearchFilter.jsx';
 import {
     fetchGames, fetchStats, fetchAnalytics,
     markGamePlayed, unmarkGamePlayed, fetchUserStats,
 } from './services/api.js';
 
+// Persistent anonymous user ID
 function getUserId() {
     let id = localStorage.getItem('gw_user_id');
-    if (!id) { id = 'user_' + Math.random().toString(36).slice(2, 10); localStorage.setItem('gw_user_id', id); }
+    if (!id) {
+        id = 'user_' + Math.random().toString(36).slice(2, 10);
+        localStorage.setItem('gw_user_id', id);
+    }
     return id;
 }
 const USER_ID = getUserId();
@@ -25,14 +30,51 @@ export default function App() {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [theme, setTheme] = useState(() => localStorage.getItem('gw_theme') || 'dark');
+    const [mapStyle, setMapStyle] = useState(() => localStorage.getItem('gw_map_style') || 'texture');
 
-    // Apply theme class to <html>
+    // Search & filter state
+    const [searchQuery, setSearchQuery] = useState('');
+    const [filters, setFilters] = useState({ era: '', continent: '', genre: '', platform: '' });
+
+    const handleFilterChange = useCallback((key, value) => {
+        setFilters(prev => ({ ...prev, [key]: value }));
+    }, []);
+
+    const handleClearFilters = useCallback(() => {
+        setSearchQuery('');
+        setFilters({ era: '', continent: '', genre: '', platform: '' });
+    }, []);
+
+    const filteredGames = useMemo(() => {
+        const q = searchQuery.trim().toLowerCase();
+        return games.filter(g => {
+            if (q && !g.title.toLowerCase().includes(q)) return false;
+            if (filters.continent && g.continent !== filters.continent) return false;
+            if (filters.era && g.era_label !== filters.era) return false;
+            if (filters.genre && !g.genres.includes(filters.genre)) return false;
+            if (filters.platform && !g.platforms.includes(filters.platform)) return false;
+            return true;
+        });
+    }, [games, searchQuery, filters]);
+
+    const [focusGame, setFocusGame] = useState(null);
+    const handleSearch = useCallback(() => {
+        if (filteredGames.length === 1) {
+            setFocusGame({ ...filteredGames[0], _ts: Date.now() });
+        }
+    }, [filteredGames]);
+
     useEffect(() => {
         document.documentElement.setAttribute('data-theme', theme);
         localStorage.setItem('gw_theme', theme);
     }, [theme]);
 
     const toggleTheme = () => setTheme(t => t === 'dark' ? 'light' : 'dark');
+    const toggleMapStyle = () => setMapStyle(s => {
+        const next = s === 'texture' ? 'lines' : 'texture';
+        localStorage.setItem('gw_map_style', next);
+        return next;
+    });
 
     useEffect(() => {
         Promise.all([fetchGames(), fetchStats(), fetchAnalytics()])
@@ -78,11 +120,32 @@ export default function App() {
                     >
                         {theme === 'dark' ? '☀️' : '🌙'}
                     </button>
+                    <button
+                        className={`btn-map-style ${mapStyle === 'lines' ? 'btn-map-style--lines' : ''}`}
+                        onClick={toggleMapStyle}
+                        title={mapStyle === 'texture' ? 'Switch to Lines Only' : 'Switch to Texture'}
+                        aria-label="Toggle map style"
+                    >
+                        🗺️ <span>Texture: {mapStyle === 'texture' ? 'ON' : 'OFF'}</span>
+                    </button>
                     <button className="btn-user" onClick={() => setShowUserStats(s => !s)} title="My Stats">
                         🧑‍🚀 My Stats
                     </button>
                 </div>
             </header>
+
+            {!loading && !error && (
+                <SearchFilter
+                    games={games}
+                    query={searchQuery}
+                    filters={filters}
+                    onQueryChange={setSearchQuery}
+                    onFilterChange={handleFilterChange}
+                    onClear={handleClearFilters}
+                    filteredCount={filteredGames.length}
+                    onSearch={handleSearch}
+                />
+            )}
 
             {loading ? (
                 <div className="loading-screen"><div className="spinner" /><p>Loading GameWorld…</p></div>
@@ -93,11 +156,13 @@ export default function App() {
                 </div>
             ) : (
                 <Globe
-                    games={games}
+                    games={filteredGames}
                     selectedGame={selectedGame}
                     onGameClick={setSelectedGame}
                     playedGameIds={playedIds}
                     theme={theme}
+                    focusGame={focusGame}
+                    mapStyle={mapStyle}
                 />
             )}
 

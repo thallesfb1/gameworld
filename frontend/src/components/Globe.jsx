@@ -1,4 +1,4 @@
-import { useRef, useEffect, useCallback, useState } from 'react';
+import { useRef, useEffect, useCallback, useState, useMemo } from 'react';
 import GlobeGL from 'react-globe.gl';
 
 const ERA_COLORS = {
@@ -56,12 +56,22 @@ const ERA_COLORS = {
 const DEFAULT_COLOR = '#6C5CE7';
 export function getEraColor(era) { return ERA_COLORS[era] || DEFAULT_COLOR; }
 
-export default function Globe({ games, selectedGame, onGameClick, playedGameIds, theme }) {
+export default function Globe({ games, selectedGame, onGameClick, playedGameIds, theme, focusGame, mapStyle = 'texture' }) {
     const globeRef = useRef();
     const [dims, setDims] = useState({ w: window.innerWidth, h: window.innerHeight });
     const autoRotateTimer = useRef(null);
     // Always-fresh click handler via ref — fixes stale-closure issue
     const onClickRef = useRef(null);
+    const [countries, setCountries] = useState({ features: [] });
+
+    // Load country borders GeoJSON once
+    useEffect(() => {
+        fetch('https://raw.githubusercontent.com/vasturiano/react-globe.gl/master/example/datasets/ne_110m_admin_0_countries.geojson')
+            .then(r => r.json())
+            .then(setCountries)
+            .catch(() => { }); // silently fail — globe still works without borders
+    }, []);
+
     onClickRef.current = onGameClick;
 
     useEffect(() => {
@@ -106,6 +116,19 @@ export default function Globe({ games, selectedGame, onGameClick, playedGameIds,
             clearTimeout(autoRotateTimer.current);
         };
     }, []);
+
+    // Fly-to when focusGame changes (triggered by the Search button)
+    useEffect(() => {
+        if (!focusGame || !globeRef.current) return;
+        const ctrl = globeRef.current.controls();
+        ctrl.autoRotate = false;
+        clearTimeout(autoRotateTimer.current);
+        autoRotateTimer.current = setTimeout(() => { ctrl.autoRotate = true; }, 6000);
+        globeRef.current.pointOfView(
+            { lat: focusGame.lat, lng: focusGame.lng, altitude: 1.2 },
+            1400
+        );
+    }, [focusGame]);
 
     // Fly-to on click
     const handlePointClick = useCallback((point) => {
@@ -213,9 +236,46 @@ export default function Globe({ games, selectedGame, onGameClick, playedGameIds,
     }, [selectedGame?.id, playedGameIds]);
 
     const isLight = theme === 'light';
-    const globeImg = isLight
-        ? '//unpkg.com/three-globe/example/img/earth-day.jpg'
-        : '//unpkg.com/three-globe/example/img/earth-night.jpg';
+    const isLines = mapStyle === 'lines';
+
+    // Solid-color SVG data URLs for lines mode — makes the sphere itself that color
+    const GLOBE_LIGHT_LINES = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='2' height='1'%3E%3Crect fill='%23eaf2ff' width='2' height='1'/%3E%3C/svg%3E`;
+    const GLOBE_DARK_LINES = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='2' height='1'%3E%3Crect fill='%23060618' width='2' height='1'/%3E%3C/svg%3E`;
+
+    // ── Textures ────────────────────────────────────────────────────────────
+    const globeImg = isLines
+        ? (isLight ? GLOBE_LIGHT_LINES : GLOBE_DARK_LINES)
+        : isLight
+            ? 'https://unpkg.com/three-globe/example/img/earth-day.jpg'
+            : 'https://unpkg.com/three-globe/example/img/earth-night.jpg';
+
+    const bumpImg = isLines ? null : 'https://unpkg.com/three-globe/example/img/earth-topology.png';
+
+    // ── Canvas background ────────────────────────────────────────────────────
+    const globeBg = isLines
+        ? (isLight ? '#eaf2ff' : '#08081a')
+        : 'rgba(0,0,0,0)';
+
+    // ── Country polygon styling ─────────────────────────────────────────────
+    const polyColor = useCallback(() => {
+        if (isLines) return isLight ? 'rgba(30,90,200,0.06)' : 'rgba(80,140,255,0.06)';
+        return isLight ? 'rgba(30,30,60,0.06)' : 'rgba(200,220,255,0.04)';
+    }, [isLines, isLight]);
+
+    const polySideColor = useCallback(() => 'rgba(0,0,0,0)', []);
+
+    const polyStrokeColor = useCallback(() => {
+        // Dark mode lines — bright electric blue (keep as user liked)
+        if (isLines && !isLight) return 'rgba(100,180,255,0.80)';
+        // Light mode lines — vivid blue on the white/pale-blue sphere
+        if (isLines && isLight) return 'rgba(20,80,200,0.80)';
+        // Texture mode — subtle overlay
+        return isLight ? 'rgba(50,50,120,0.45)' : 'rgba(160,180,255,0.35)';
+    }, [isLines, isLight]);
+
+    const atmosphereColor = isLines
+        ? (isLight ? '#4a90d9' : '#5B4FF5')
+        : (isLight ? '#2980B9' : '#5B4FF5');
 
     // Points for click interaction only (invisible, high hit-area)
     const pointColor = useCallback((d) => {
@@ -228,11 +288,19 @@ export default function Globe({ games, selectedGame, onGameClick, playedGameIds,
                 ref={globeRef}
                 width={dims.w}
                 height={dims.h}
-                backgroundColor="rgba(0,0,0,0)"
+                backgroundColor={globeBg}
                 globeImageUrl={globeImg}
-                bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
-                atmosphereColor={isLight ? '#2980B9' : '#5B4FF5'}
-                atmosphereAltitude={0.14}
+                bumpImageUrl={bumpImg}
+                atmosphereColor={atmosphereColor}
+                atmosphereAltitude={isLines ? 0.08 : 0.14}
+
+                // === Country borders ===
+                polygonsData={countries.features}
+                polygonAltitude={isLines ? 0.003 : 0.002}
+                polygonCapColor={polyColor}
+                polygonSideColor={polySideColor}
+                polygonStrokeColor={polyStrokeColor}
+                polygonLabel={() => ''}
 
                 // === Clickable transparent points ===
                 pointsData={games}
